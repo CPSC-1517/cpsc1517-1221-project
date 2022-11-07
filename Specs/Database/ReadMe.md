@@ -19,3 +19,4 @@ Open **SSMS** (*Sql Server Management Studio*) and begin by right-clicking on th
 ![Step 6](./06-import-results.png)
 
 ![Step 7](./07-import-check-version.png)
+
