@@ -4,7 +4,7 @@
 
 ## Overview
 
-This document outlines the marking guide and general requirements for the lab. You are expected to work on a **single** scenario from the [catalogue of scenarios](./Scenarios/ReadMe.md) developed for the [***StarTED*** database](./Database/ReadMe.md). Your instructor will provide information on how to determine your specific scenario. Each scenario revolves around generating two fully-functional forms:
+This document outlines the marking guide and general requirements for the lab. You are expected to work on a **single** scenario from the [catalogue of scenarios](./Scenarios/README.md) developed for the [***StarTED*** database](./Database/README.md). Your instructor will provide information on how to determine your specific scenario. Each scenario revolves around generating two fully-functional forms:
 
 * Query – Data Lookup with Tabular Display.
 * CRUD – Single item Create/Read/Update/Delete.
