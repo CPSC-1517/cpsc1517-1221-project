@@ -13,7 +13,7 @@ Your solution must be a client-server solution consisting of multiple projects a
 The database supplied for this lab is an SQL Server database named "StarTED". The following is a sample of the connection string that may be used for the Presentation Layer.
 
 ```json
-  "StarTEDDb": "Server=.;Database=StarTED;Trusted_Connection=true;MultipleActiveResultSets=true",
+  "StarTEDDb": "Server=.;Database=StarTED;Trusted_Connection=true;TrustServerCertificate=True;MultipleActiveResultSets=true;",
    "StarTEDRemoteVpnDmitDB" : "Server=DMIT-Capstone1.ad.sast.ca;Database=CPSC1517_1221_yourSection_yourNaitUserName;User Id=yourNaitUsername;Password=RemotePassword.yourNaitStudentId;TrustServerCertificate=True;MultipleActiveResultSets=true",
     "StarTEDRemoteDmitDB" : "Server=CAPSTONE1.dmit.sast.ca;Database=CPSC1517_1221_yourSection_yourNaitUserName;User Id=yourNaitUsername;Password=RemotePassword.yourNaitStudentId;TrustServerCertificate=True;MultipleActiveResultSets=true",
 ```
